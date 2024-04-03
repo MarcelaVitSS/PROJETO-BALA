@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(231, 206, 255);
+}
+.square{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 0, 0);
+}
+.square p{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+.square2 {
+    background-color: black;
+}
